@@ -1,0 +1,11 @@
+{
+  "name": "graphql-prisma-select-fields",
+  "version": "1.0.0",
+  "description": "Helper library to convert GraphQL document fields to Prisma's select argument",
+  "main": "index.js",
+  "author": "Fatih Kilic (me@fklc.dev)",
+  "license": "MIT",
+  "dependencies": {
+    "graphql": "^16.5.0"
+  }
+}
